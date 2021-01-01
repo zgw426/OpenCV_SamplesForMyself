@@ -55,7 +55,8 @@ OpenCVのARマーカーのライブラリArUcoのPython3サンプルスクリプ
 
 
 
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=XVpjjGrzeAw
+- IDを描画し動画ファイルを出力:opcvCapVideo02_drawID_outMP4.py
+    - <a href="http://www.youtube.com/watch?feature=player_embedded&v=XVpjjGrzeAw
 " target="_blank"><img src="http://img.youtube.com/vi/XVpjjGrzeAw/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+

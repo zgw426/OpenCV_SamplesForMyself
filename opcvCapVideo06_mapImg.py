@@ -10,7 +10,7 @@ import numpy as np
 #targetVideo = "test-video.mp4" # 動画
 #targetVideo = "http://{IP Address}:8090/?action=stream" # MJPG-Streamer
 
-targetVideo = "http://raspi102.local:8090/?action=stream"
+targetVideo = "test-video.mp4"
 
 cap = cv2.VideoCapture( targetVideo )
 

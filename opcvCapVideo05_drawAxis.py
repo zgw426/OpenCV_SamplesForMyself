@@ -13,7 +13,7 @@ import numpy as np
 targetVideo = "test-video.mp4"
 
 cap = cv2.VideoCapture( targetVideo )
-outputVideo = "editV05-out.mp4"
+outputVideo = "editV05.mp4"
 
 # Set AR Marker
 aruco_dict = aruco.getPredefinedDictionary(aruco.DICT_4X4_50)

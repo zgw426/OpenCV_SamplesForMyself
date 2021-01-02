@@ -12,9 +12,9 @@ import numpy as np
 targetVideo = "test-video.mp4"
 
 #mappingVideo= 0 # カメラデバイス
-mappingVideo= "test-mapping.mp4" # 動画
+#mappingVideo= "test-mapping.mp4" # 動画
 #mappingVideo= "http://{IP Address}:8090/?action=stream" # MJPG-Streamer
-#mappingVideo= "http://raspi102.local:8090/?action=stream"
+mappingVideo= "test-mapping.mp4"
 
 outputVideo= "editV07.mp4"
 
